@@ -71,7 +71,7 @@
   <string role="key" value="_intendedEndUserRoleType"></string>
   <unicode value="learner"></unicode>
   <string role="key" value="_isChanged"></string>
-  <bool value="0"></bool>
+  <bool value="1"></bool>
   <string role="key" value="_isTemplate"></string>
   <bool value="0"></bool>
   <string role="key" value="_lang"></string>
@@ -87,7 +87,7 @@
   <string role="key" value="_loadMathEngine"></string>
   <bool value="0"></bool>
   <string role="key" value="_name"></string>
-  <unicode value="guia-materialeshipermediales"></unicode>
+  <unicode value="prueba_enlaces"></unicode>
   <string role="key" value="_nextIdeviceId"></string>
   <int value="14"></int>
   <string role="key" value="_nextNodeId"></string>
@@ -177,8 +177,8 @@
            <string role="key" value="content_w_resourcePaths"></string>
            <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;p&gt;🎯 🗺 🖖 🎨 🧪&lt;/p&gt;
 &lt;h2&gt;En 2022 hicimos dos materiales educativos &lt;em&gt;hipermediales&lt;/em&gt;:&lt;/h2&gt;
-&lt;p style=&quot;padding-left: 30px;&quot;&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;&lt;strong&gt;🛣&lt;/strong&gt;&lt;/span&gt;&lt;strong&gt; &lt;/strong&gt;&lt;a href=&quot;exe-node:%F0%9F%9A%80%20Inicio:%F0%9F%9B%A3%20Taller%20de%20metodolog%C3%ADa#auto_top&quot;&gt;Taller de metodología&lt;/a&gt;&lt;/p&gt;
-&lt;p style=&quot;padding-left: 30px;&quot;&gt;&lt;strong&gt;🛒 &lt;/strong&gt;&lt;a href=&quot;exe-node:%F0%9F%9A%80%20Inicio:%F0%9F%9B%92%20Comercio%20electr%C3%B3nico#auto_top&quot;&gt;Comercio electrónico&lt;/a&gt;&lt;/p&gt;
+&lt;p style=&quot;padding-left: 30px;&quot;&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;&lt;strong&gt;🛣&lt;/strong&gt;&lt;/span&gt;&lt;strong&gt; &lt;/strong&gt;&lt;a href=&quot;exe-node:%F0%9F%9A%80%20Inicio:Taller%20de%20metodologia#auto_top&quot;&gt;Taller de metodología&lt;/a&gt;&lt;/p&gt;
+&lt;p style=&quot;padding-left: 30px;&quot;&gt;&lt;strong&gt;🛒 &lt;/strong&gt;&lt;a href=&quot;exe-node:%F0%9F%9A%80%20Inicio:Comercio%20electronico#auto_top&quot;&gt;Comercio electrónico&lt;/a&gt;&lt;/p&gt;
 &lt;h2&gt;En este material compartimos los aprendizajes que nos resultaron valiosos en el camino.&lt;/h2&gt;
 &lt;p style=&quot;padding-left: 30px;&quot;&gt;✅ &lt;strong&gt;&lt;/strong&gt;&lt;a href=&quot;exe-node:%F0%9F%9A%80%20Inicio:%E2%9C%85%20Cinco%20pasos%20para%20organizar%20la%20producci%C3%B3n#auto_top&quot;&gt;Cinco pasos para organizar la producción&lt;/a&gt;&lt;/p&gt;
 &lt;p style=&quot;text-align: center;&quot;&gt;&lt;/p&gt;&lt;/div&gt;"></unicode>
@@ -1388,11 +1388,11 @@
               </list>
              </dictionary>
             </instance>
-            <unicode role="key" value="exe-node:%F0%9F%9A%80%20Inicio:%F0%9F%9B%92%20Comercio%20electr%C3%B3nico#auto_top"></unicode>
+            <unicode role="key" value="exe-node:%F0%9F%9A%80%20Inicio:Comercio%20electronico#auto_top"></unicode>
             <instance class="exe.engine.node.Node" reference="35">
              <dictionary>
               <string role="key" value="_title"></string>
-              <unicode value="🛒 Comercio electrónico"></unicode>
+              <unicode value="Comercio electronico"></unicode>
               <string role="key" value="idevices"></string>
               <list></list>
               <string role="key" value="_id"></string>
@@ -1406,7 +1406,7 @@
               <string role="key" value="exportType"></string>
               <string value="website"></string>
               <string role="key" value="last_full_node_path"></string>
-              <string value="exe-node:%F0%9F%9A%80%20Inicio:%F0%9F%9B%92%20Comercio%20electr%C3%B3nico"></string>
+              <string value="exe-node:%F0%9F%9A%80%20Inicio:Comercio%20electronico"></string>
               <string role="key" value="parent"></string>
               <reference key="11"></reference>
               <string role="key" value="top_anchors_linked_from_fields"></string>
@@ -1417,11 +1417,11 @@
               <list></list>
              </dictionary>
             </instance>
-            <unicode role="key" value="exe-node:%F0%9F%9A%80%20Inicio:%F0%9F%9B%A3%20Taller%20de%20metodolog%C3%ADa#auto_top"></unicode>
+            <unicode role="key" value="exe-node:%F0%9F%9A%80%20Inicio:Taller%20de%20metodologia#auto_top"></unicode>
             <instance class="exe.engine.node.Node" reference="25">
              <dictionary>
               <string role="key" value="_title"></string>
-              <unicode value="🛣 Taller de metodología"></unicode>
+              <unicode value="Taller de metodologia"></unicode>
               <string role="key" value="idevices"></string>
               <list>
                <instance class="exe.engine.jsidevice.JsIdevice" reference="23">
@@ -2150,7 +2150,7 @@
               <string role="key" value="exportType"></string>
               <string value="website"></string>
               <string role="key" value="last_full_node_path"></string>
-              <string value="exe-node:%F0%9F%9A%80%20Inicio:%F0%9F%9B%A3%20Taller%20de%20metodolog%C3%ADa"></string>
+              <string value="exe-node:%F0%9F%9A%80%20Inicio:Taller%20de%20metodologia"></string>
               <string role="key" value="parent"></string>
               <reference key="11"></reference>
               <string role="key" value="top_anchors_linked_from_fields"></string>
@@ -2423,7 +2423,7 @@
   <string role="key" value="backgroundImgTile"></string>
   <bool value="0"></bool>
   <string role="key" value="currentNode"></string>
-  <reference key="14"></reference>
+  <reference key="35"></reference>
   <string role="key" value="dublinCore"></string>
   <instance class="exe.engine.package.DublinCore">
    <dictionary>
